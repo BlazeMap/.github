@@ -12,7 +12,3 @@ High-performance mapping infrastructure for modern applications.
 ## Tech stack
 
 Built with Rust for performance and reliability.
-
-## Links
-
-- [blazemap.ru](https://blazemap.ru)
